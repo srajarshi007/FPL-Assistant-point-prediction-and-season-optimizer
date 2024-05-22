@@ -1,0 +1,743 @@
+,id,name,cost,position,home_team,away_team,kickoff_time,is_home,team_x
+0,1,Folarin Balogun,44,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+1,2,Cédric Alves Soares,39,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+2,3,Mohamed Elneny,44,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+3,4,Fábio Ferreira Vieira,54,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+4,5,Gabriel dos Santos Magalhães,50,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+5,6,Kai Havertz,71,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+6,8,Gabriel Fernando de Jesus,80,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+7,9,Jorge Luiz Frello Filho,53,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+8,10,Jakub Kiwior,43,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+9,11,Marcus Oliveira Alencar,45,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+10,12,Gabriel Martinelli Silva,77,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+11,13,Eddie Nketiah,52,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+12,14,Martin Ødegaard,85,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+13,15,Thomas Partey,48,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+14,16,Nicolas Pépé,49,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+15,17,Aaron Ramsdale,45,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+16,18,Rúnar Alex Rúnarsson,40,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+17,19,Bukayo Saka,91,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+18,20,William Saliba,56,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+19,22,Emile Smith Rowe,53,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+20,24,Kieran Tierney,44,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+21,25,Takehiro Tomiyasu,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+22,26,Leandro Trossard,65,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+23,29,Benjamin White,56,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+24,30,Granit Xhaka,60,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+25,31,Oleksandr Zinchenko,52,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+26,113,David Raya Martin,49,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+27,540,Declan Rice,54,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+28,578,Reiss Nelson,48,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+29,585,Jurriën Timber,46,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+30,646,Karl Hein,40,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,False,Arsenal
+31,735,Charles Sagoe,45,MID,Wolves,Arsenal,2024-04-20T18:30:00Z,False,Arsenal
+32,736,Reuell Walters,40,DEF,Wolves,Arsenal,2024-04-20T18:30:00Z,False,Arsenal
+33,737,Bradley Ibrahim,45,MID,Wolves,Arsenal,2024-04-20T18:30:00Z,False,Arsenal
+34,32,Alexandre Moreno Lopera,51,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+35,34,Leon Bailey,57,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+36,35,Emiliano Buendía Stati,57,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+37,36,Matty Cash,47,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+38,37,Calum Chambers,39,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+39,38,Philippe Coutinho Correia,58,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+40,39,Keinan Davis,49,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+41,40,Leander Dendoncker,49,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+42,41,Diego Carlos Santos Silva,44,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+43,42,Lucas Digne,46,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+44,43,Douglas Luiz Soares de Paulo,56,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+45,44,Jhon Durán,50,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+46,45,Kortney Hause,39,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+47,46,Tim Iroegbunam,44,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+48,47,Boubacar Kamara,50,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+49,48,Ezri Konsa Ngoyo,46,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+50,49,Emiliano Martínez Romero,52,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+51,50,John McGinn,56,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+52,51,Tyrone Mings,41,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+53,53,Robin Olsen,39,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+54,54,Jaden Philogene-Bidace,45,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+55,55,Jacob Ramsey,59,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+56,56,Morgan Sanson,45,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+57,57,Viljami Sinisalo,40,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+58,58,Youri Tielemans,56,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+59,59,Bertrand Traoré,50,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+60,60,Ollie Watkins,89,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+61,61,Wesley Moraes Ferreira da Silva,50,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+62,584,Pau Torres,47,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+63,599,Moussa Diaby,66,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+64,618,Omari Kellyman,45,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,True,Aston Villa
+65,670,Filip Marschall,40,GKP,Sheffield Utd,Aston Villa,2024-02-03T17:30:00Z,False,Aston Villa
+66,672,Nicolò Zaniolo,54,MID,Aston Villa,Man Utd,2024-02-11T16:30:00Z,True,Aston Villa
+67,686,Oliwier Zych,40,GKP,Aston Villa,Man Utd,2024-02-11T16:30:00Z,True,Aston Villa
+68,699,Clément Lenglet,45,DEF,Fulham,Aston Villa,2024-02-17T15:00:00Z,False,Aston Villa
+69,62,Jaidon Anthony,49,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+70,63,Philip Billing,52,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+71,64,David Brooks,47,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+72,65,Ryan Christie,50,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+73,66,Lewis Cook,50,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+74,67,Siriki Dembélé,45,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+75,68,Ryan Fredericks,43,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+76,69,James Hill,40,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+77,70,Lloyd Kelly,45,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+78,71,Gavin Kilkenny,43,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+79,72,Justin Kluivert,46,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+80,73,Jamal Lowe,49,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+81,74,Emiliano Marcondes,43,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+82,75,Chris Mepham,43,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+83,76,Kieffer Moore,46,FWD,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+84,77,Norberto Murara Neto,46,GKP,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+85,78,Dango Ouattara,47,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+86,79,Ben Pearson,45,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+87,80,Darren Randolph,40,GKP,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+88,81,Joe Rothwell,48,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+89,82,Antoine Semenyo,45,FWD,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+90,83,Marcos Senesi,45,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+91,84,Adam Smith,44,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+92,85,Dominic Solanke,71,FWD,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+93,86,Marcus Tavernier,54,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+94,87,Hamed Traorè,47,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+95,88,Mark Travers,40,GKP,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+96,89,Illia Zabarnyi,44,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+97,595,Milos Kerkez,44,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+98,607,Ionuț Radu,44,GKP,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+99,619,Ben Greenwood,40,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+100,643,Max Aarons,44,DEF,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+101,644,Alex Scott,49,MID,Bournemouth,Nott'm Forest,2024-02-04T14:00:00Z,True,Bournemouth
+102,673,Tyler Adams,49,MID,Newcastle,Bournemouth,2024-02-17T15:00:00Z,False,Bournemouth
+103,705,Luis Sinisterra,55,MID,Burnley,Bournemouth,2024-03-03T13:00:00Z,False,Bournemouth
+104,90,Kristoffer Ajer,44,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+105,91,Ellery Balcombe,39,GKP,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+106,92,Shandon Baptiste,43,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+107,93,Mads Bech Sørensen,40,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+108,94,Mads Bidstrup,45,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+109,95,Sergi Canós Tenés,50,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+110,96,Nathan Collins,45,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+111,97,Matthew Cox,40,GKP,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+112,98,Mikkel Damsgaard,48,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+113,99,Josh Dasilva,47,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+114,100,Halil Dervişoğlu,45,FWD,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+115,101,Mark Flekken,45,GKP,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+116,102,Charlie Goode,39,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+117,103,Rico Henry,43,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+118,104,Aaron Hickey,44,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+119,105,Vitaly Janelt,53,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+120,106,Mathias Jensen,54,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+121,107,Keane Lewis-Potter,47,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+122,108,Bryan Mbeumo,68,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+123,109,Ben Mee,48,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+124,110,Christian Nørgaard,53,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+125,111,Frank Onyeka,49,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+126,112,Ethan Pinnock,46,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+127,114,Mads Roerslev Rasmussen,44,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+128,115,Kevin Schade,52,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+129,116,Thomas Strakosha,39,GKP,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+130,117,Ivan Toney,81,FWD,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+131,118,Ryan Trevitt,45,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+132,119,Yoane Wissa,56,FWD,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+133,120,Yegor Yarmoliuk,43,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+134,121,Mathias Jorgensen,43,DEF,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+135,258,Neal Maupay,49,FWD,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+136,508,Sergio Reguilón,44,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,False,Brentford
+137,620,Michael Olakigbe,45,MID,Brentford,Man City,2024-02-05T20:00:00Z,True,Brentford
+138,684,Ethan Brierley,45,MID,Brentford,Liverpool,2024-02-17T12:30:00Z,True,Brentford
+139,701,Saman Ghoddos,45,MID,Man City,Brentford,2024-02-20T19:30:00Z,False,Brentford
+140,725,Ji-Soo Kim,40,DEF,Burnley,Brentford,2024-03-16T15:00:00Z,False,Brentford
+141,733,Valintino Adedokun,40,DEF,Aston Villa,Brentford,2024-04-06T14:00:00Z,False,Brentford
+142,744,Myles Peart-Harris,45,MID,Brentford,Sheffield Utd,2024-04-13T14:00:00Z,True,Brentford
+143,122,Simon Adingra,50,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+144,123,Steven Alzate,44,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+145,124,Yasin Ayari,45,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+146,125,Facundo Buonanotte,47,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+147,127,Aaron Connolly,45,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+148,128,Mahmoud Dahoud,48,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+149,129,Lewis Dunk,50,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+150,130,Julio Enciso,50,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+151,131,Pervis Estupiñán,51,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+152,132,Evan Ferguson,59,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+153,133,Billy Gilmour,49,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+154,134,Pascal Groß,65,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+155,135,João Pedro Junqueira de Jesus,55,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+156,136,Michał Karbownik,40,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+157,137,Kacper Kozłowski,45,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+158,138,Adam Lallana,49,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+159,139,Tariq Lamptey,39,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+160,140,Solly March,61,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+161,141,Tom McGill,39,GKP,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+162,142,James Milner,48,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+163,143,Kaoru Mitoma,64,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+164,144,Jakub Moder,44,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+165,146,Jeremy Sarmiento Morante,45,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+166,147,Kjell Scherpen,40,GKP,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+167,148,Jason Steele,42,GKP,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+168,149,Deniz Undav,55,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+169,150,Jan Paul van Hecke,40,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+170,151,Joël Veltman,43,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+171,152,Bart Verbruggen,44,GKP,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+172,153,Adam Webster,42,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+173,154,Danny Welbeck,57,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+174,155,Andi Zeqiri,44,FWD,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+175,606,Igor Julio dos Santos de Paulo,43,DEF,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+176,621,Jack Hinshelwood,45,MID,Luton,Brighton,2024-01-30T19:45:00Z,False,Brighton
+177,690,Carlos Baleba,45,MID,Sheffield Utd,Brighton,2024-02-18T14:00:00Z,False,Brighton
+178,700,Anssumane Fati Vieira,64,MID,Sheffield Utd,Brighton,2024-02-18T14:00:00Z,False,Brighton
+179,741,Mark O’Mahony,45,FWD,Brighton,Man City,2024-04-25T19:00:00Z,True,Brighton
+180,742,Benicio Baker-Boaitey,45,MID,Brighton,Man City,2024-04-25T19:00:00Z,True,Brighton
+181,156,Enock Agyei,42,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+182,157,Ameen Al-Dakhil,38,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+183,158,Samuel Bastien,49,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+184,159,Manuel Benson Hedilazio,52,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+185,160,Jordan Beyer,40,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+186,161,Josh Brownhill,47,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+187,162,Darko Churlinov,44,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+188,163,Jack Cork,48,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+189,164,Dara Costelloe,45,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+190,165,Josh Cullen,50,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+191,166,CJ Egan-Riley,39,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+192,167,Hjalmar Ekdal,39,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+193,168,Lyle Foster,48,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+194,169,Denis Franchi,39,GKP,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+195,170,Jóhann Berg Gudmundsson,48,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+196,171,Luke McNally,40,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+197,172,Arijanet Muric,43,GKP,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+198,173,Dara O'Shea,44,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+199,174,Michael Obafemi,49,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+200,175,Bailey Peacock-Farrell,40,GKP,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+201,176,Connor Roberts,43,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+202,177,Jay Rodriguez,53,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+203,178,Charlie Taylor,40,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+204,179,Bobby Thomas,40,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+205,180,Scott Twine,49,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+206,181,Lawrence Vigouroux,39,GKP,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+207,182,Victor da Silva,44,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+208,183,Wout Weghorst,55,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+209,184,Anass Zaroury,46,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+210,200,David Datro Fofana,50,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+211,475,Sander Berge,47,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+212,594,Zeki Amdouni,53,FWD,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+213,596,James Trafford,45,GKP,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+214,600,Nathan Redmond,47,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+215,605,Luca Koleosho,48,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+216,608,Jacob Bruun Larsen,49,MID,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+217,622,Owen Dodgson,40,DEF,Man City,Burnley,2024-01-31T19:30:00Z,False,Burnley
+218,660,Wilson Odobert,50,MID,Burnley,Fulham,2024-02-03T15:00:00Z,True,Burnley
+219,674,Hannes Delcroix,40,DEF,Burnley,Fulham,2024-02-03T15:00:00Z,True,Burnley
+220,675,Aaron Ramsey,50,MID,Burnley,Fulham,2024-02-03T15:00:00Z,True,Burnley
+221,694,Han-Noah Massengo,49,MID,Liverpool,Burnley,2024-02-10T15:00:00Z,False,Burnley
+222,706,Mike Trésor,53,MID,Burnley,Arsenal,2024-02-17T15:00:00Z,True,Burnley
+223,126,Moisés Caicedo Corozo,45,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+224,145,Robert Sánchez,45,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+225,185,Ethan Ampadu,40,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+226,186,Andrey Nascimento dos Santos,43,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+227,187,Kepa Arrizabalaga,50,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+228,188,Pierre-Emerick Aubameyang,65,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+229,189,César Azpilicueta,45,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+230,190,Abdul Rahman Baba,40,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+231,191,Benoît Badiashile,44,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+232,192,Marcus Bettinelli,40,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+233,194,Trevoh Chalobah,43,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+234,195,Ben Chilwell,54,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+235,196,Carney Chukwuemeka,42,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+236,197,Levi Colwill,47,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+237,198,Marc Cucurella Saseta,48,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+238,199,Enzo Fernández,48,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+239,201,Wesley Fofana,44,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+240,202,Conor Gallagher,54,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+241,203,Malo Gusto,42,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+242,206,Reece James,53,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+243,207,Romelu Lukaku Bolingoli,68,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+244,208,Noni Madueke,53,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+245,210,Mykhailo Mudryk,63,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+246,211,Nicolas Jackson,68,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+247,212,Christopher Nkunku,74,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+248,213,Christian Pulisic,55,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+249,214,Malang Sarr,43,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+250,215,Gabriel Słonina,40,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+251,216,Raheem Sterling,71,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+252,217,Thiago Emiliano da Silva,50,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+253,218,Hakim Ziyech,54,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+254,362,Cole Palmer,58,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+255,589,Ângelo Gabriel Borges Damaceno,50,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+256,609,Ian Maatsen,51,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+257,611,Axel Disasi,49,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+258,613,Lesley Ugochukwu,44,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+259,623,Mason Burstow,45,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+260,659,Lucas Bergström,39,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,False,Chelsea
+261,667,Roméo Lavia,49,MID,Chelsea,Wolves,2024-02-04T14:00:00Z,True,Chelsea
+262,671,Bashir Humphreys,40,DEF,Chelsea,Wolves,2024-02-04T14:00:00Z,True,Chelsea
+263,677,Deivid Washington de Souza Eugênio,45,FWD,Crystal Palace,Chelsea,2024-02-12T20:00:00Z,False,Chelsea
+264,680,Eddie Beach,40,GKP,Crystal Palace,Chelsea,2024-02-12T20:00:00Z,False,Chelsea
+265,681,Diego Manuel Jadon da Silva Moreira,45,MID,Crystal Palace,Chelsea,2024-02-12T20:00:00Z,False,Chelsea
+266,687,Đorđe Petrović,45,GKP,Man City,Chelsea,2024-02-17T17:30:00Z,False,Chelsea
+267,716,Alfie Gilchrist,40,DEF,Brentford,Chelsea,2024-03-02T15:00:00Z,False,Chelsea
+268,717,Ronnie Stutter,45,FWD,Brentford,Chelsea,2024-03-02T15:00:00Z,False,Chelsea
+269,718,Alex Matos,45,MID,Brentford,Chelsea,2024-03-02T15:00:00Z,False,Chelsea
+270,723,Josh Brooking,40,DEF,Chelsea,Burnley,2024-03-30T15:00:00Z,True,Chelsea
+271,7,Rob Holding,43,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+272,219,Naouirou Ahamada,43,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+273,220,Joachim Andersen,48,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+274,221,Jordan Ayew,54,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+275,222,Nathaniel Clyne,44,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+276,223,Cheick Doucouré,49,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+277,224,Malcolm Ebiowei,44,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+278,225,Odsonne Edouard,54,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+279,226,Eberechi Eze,60,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+280,227,Vicente Guaita,44,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+281,228,Marc Guéhi,44,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+282,229,Will Hughes,49,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+283,230,Sam Johnstone,45,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+284,231,Jefferson Lerma Solís,47,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+285,232,Jean-Philippe Mateta,49,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+286,233,Remi Matthews,39,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+287,234,Tyrick Mitchell,46,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+288,235,Jake O'Brien,40,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+289,236,Michael Olise,59,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+290,237,Luke Plange,45,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+291,238,Chris Richards,39,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+292,239,Jairo Riedewald,43,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+293,240,Jeffrey Schlupp,49,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+294,241,James Tomkins,40,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+295,242,Joel Ward,45,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+296,243,Joe Whitworth,39,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+297,385,Dean Henderson,44,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+298,615,Matheus França de Oliveira,48,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+299,657,Jesurun Rak-Sakyi,45,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+300,658,John-Kymani Gordon,45,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,True,Crystal Palace
+301,720,Ademola Ola-Adebomi,45,FWD,Crystal Palace,Luton,2024-03-09T15:00:00Z,True,Crystal Palace
+302,721,David Ozoh,45,MID,Crystal Palace,Luton,2024-03-09T15:00:00Z,True,Crystal Palace
+303,724,Jadan Raymond,45,MID,Nott'm Forest,Crystal Palace,2024-03-30T15:00:00Z,False,Crystal Palace
+304,244,André Tavares Gomes,44,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+305,245,Jarrad Branthwaite,41,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+306,246,Dominic Calvert-Lewin,58,FWD,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+307,247,Seamus Coleman,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+308,248,Dele Alli,48,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+309,249,Abdoulaye Doucouré,55,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+310,250,James Garner,49,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+311,251,Jean-Philippe Gbamin,44,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+312,252,Ben Godfrey,43,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+313,253,Demarai Gray,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+314,254,Idrissa Gueye,48,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+315,257,Michael Keane,43,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+316,259,Dwight McNeil,54,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+317,260,Vitalii Mykolenko,46,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+318,261,Amadou Onana,47,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+319,262,Nathan Patterson,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+320,263,Jordan Pickford,45,GKP,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+321,264,Ellis Simms,45,FWD,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+322,265,James Tarkowski,46,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+323,266,João Neves Virgínia,39,GKP,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+324,579,Andy Lonergan,39,GKP,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+325,588,Ashley Young,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+326,601,Arnaut Danjuma Groeneveld,52,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+327,624,Lewis Dobbin,45,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+328,645,Youssef Ramalho Chermiti,48,FWD,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+329,649,Thomas Cannon,45,FWD,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+330,650,Tyler Onyango,44,MID,Fulham,Everton,2024-01-30T19:45:00Z,False,Everton
+331,661,Jack Harrison,55,MID,Everton,Spurs,2024-02-03T12:30:00Z,True,Everton
+332,691,Norberto Bercique Gomes Betuncal,57,FWD,Everton,Crystal Palace,2024-02-19T20:00:00Z,True,Everton
+333,719,Mackenzie Hunt,45,MID,Everton,West Ham,2024-03-02T15:00:00Z,True,Everton
+334,193,Armando Broja,49,FWD,Liverpool,Fulham,2024-01-31T20:15:00Z,False,Fulham
+335,256,Alex Iwobi,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+336,267,Andreas Hoelgebaum Pereira,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+337,268,Tom Cairney,49,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+338,269,Ivan Neves Abreu Cavaleiro,50,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+339,270,Bobby De Cordova-Reid,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+340,271,Issa Diop,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+341,272,Tyrese Francois,44,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+342,273,Anthony Knockaert,44,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+343,274,Terence Kongolo,40,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+344,275,Bernd Leno,48,GKP,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+345,276,Saša Lukić,43,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+346,277,Kevin Mbabu,40,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+347,278,Aleksandar Mitrović,74,FWD,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+348,279,Rodrigo Muniz Carvalho,44,FWD,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+349,280,João Palhinha Gonçalves,50,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+350,281,Tim Ream,45,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+351,282,Harrison Reed,45,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+352,283,Antonee Robinson,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+353,284,Marek Rodák,39,GKP,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+354,285,Kenny Tete,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+355,286,Tosin Adarabioyo,43,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+356,287,Carlos Vinícius Alves Morais,46,FWD,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+357,288,Harry Wilson,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+358,558,Raúl Jiménez,52,FWD,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+359,591,Willian Borges da Silva,53,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+360,610,Calvin Bassey,44,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+361,625,Luc De Fougerolles,39,DEF,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+362,651,Jay Stansfield,45,FWD,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+363,652,Matthew Dibley-Dias,45,MID,Fulham,Everton,2024-01-30T19:45:00Z,True,Fulham
+364,662,Adama Traoré,49,MID,Burnley,Fulham,2024-02-03T15:00:00Z,False,Fulham
+365,683,Luke Harris,45,MID,Fulham,Bournemouth,2024-02-10T15:00:00Z,True,Fulham
+366,688,Timothy Castagne,45,DEF,Fulham,Aston Villa,2024-02-17T15:00:00Z,True,Fulham
+367,692,Steven Benda,40,GKP,Fulham,Aston Villa,2024-02-17T15:00:00Z,True,Fulham
+368,707,Fodé Ballo-Touré,45,DEF,Man Utd,Fulham,2024-02-24T15:00:00Z,False,Fulham
+369,732,Devan Tanton,40,DEF,Nott'm Forest,Fulham,2024-04-02T18:30:00Z,False,Fulham
+370,289,Adrián San Miguel del Castillo,39,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+371,290,Trent Alexander-Arnold,85,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+372,291,Alisson Ramses Becker,57,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+373,292,Stefan Bajcetic,47,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+374,293,Darwin Núñez Ribeiro,75,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+375,294,Diogo Teixeira da Silva,79,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+376,295,Harvey Elliott,48,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+377,296,Fabio Henrique Tavares,50,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+378,297,Cody Gakpo,72,FWD,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+379,298,Joe Gomez,45,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+380,299,Jordan Henderson,50,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+381,300,Curtis Jones,49,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+382,301,Caoimhin Kelleher,37,GKP,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+383,302,Ibrahima Konaté,49,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+384,303,Luis Díaz,74,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+385,304,Alexis Mac Allister,58,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+386,305,Joel Matip,48,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+387,306,Nathaniel Phillips,40,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+388,307,Andrew Robertson,64,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+389,308,Mohamed Salah,131,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+390,309,Dominik Szoboszlai,71,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+391,310,Thiago Alcántara do Nascimento,47,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+392,311,Konstantinos Tsimikas,46,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+393,312,Sepp van den Berg,40,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+394,313,Virgil van Dijk,63,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+395,626,Jarell Quansah,40,DEF,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+396,627,Bobby Clark,44,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+397,628,Ben Doak,44,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+398,629,James McConnell,44,MID,Liverpool,Chelsea,2024-01-31T20:15:00Z,True,Liverpool
+399,668,Wataru Endo,54,MID,Arsenal,Liverpool,2024-02-04T16:30:00Z,False,Liverpool
+400,708,Ryan Gravenberch,50,MID,Liverpool,Luton,2024-02-21T19:30:00Z,True,Liverpool
+401,726,Luke Chambers,40,DEF,Liverpool,Brighton,2024-03-31T13:00:00Z,True,Liverpool
+402,728,Callum Scanlon,39,DEF,Liverpool,Sheffield Utd,2024-04-04T18:30:00Z,True,Liverpool
+403,743,Treymaurice Nyoni,45,MID,Fulham,Liverpool,2024-04-21T15:30:00Z,False,Liverpool
+404,21,Albert Sambi Lokonga,49,MID,Luton,Brighton,2024-01-30T19:45:00Z,True,Luton
+405,52,Marvelous Nakamba,44,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+406,314,Elijah Adebayo,48,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+407,315,Mads Juel Andersen,39,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+408,316,Amari'i Bell,39,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+409,317,Luke Berry,46,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+410,318,Reece Burke,40,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+411,319,Allan Campbell,49,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+412,320,Jordan Clark,48,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+413,321,Alfie Doughty,45,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+414,322,Luke Freeman,49,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+415,323,Matt Macey,40,GKP,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+416,324,John McAtee,45,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+417,325,Carlos Mendes Gomes,45,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+418,326,Carlton Morris,50,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+419,327,Admiral Muskwe,45,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+420,328,Chiedozie Ogbene,49,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+421,329,Fred Onyedinma,50,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+422,330,Gabriel Osho,44,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+423,331,Aribim Pepple,45,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+424,332,Dion Pereira,44,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+425,333,Dan Potts,39,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+426,334,Glen Rea,44,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+427,335,James Shea,43,GKP,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+428,336,Joe Taylor,45,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+429,337,Elliot Thorpe,45,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+430,338,Jack Walton,40,GKP,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+431,339,Louie Watson,44,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+432,340,Cauley Woodrow,43,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+433,393,Teden Mengi,40,DEF,Luton,Brighton,2024-01-30T19:45:00Z,True,Luton
+434,553,Ryan Giles,42,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+435,575,Tom Lockyer,42,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+436,582,Pelly Ruddock Mpanzu,47,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+437,586,Tahith Chong,47,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+438,602,Issa Kaboré,40,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+439,614,Thomas Kaminski,45,GKP,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+440,630,Ross Barkley,49,MID,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+441,631,Jacob Brown,49,FWD,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+442,648,Aidan Francis-Clarke,40,DEF,Newcastle,Luton,2024-02-03T15:00:00Z,False,Luton
+443,665,Tim Krul,44,GKP,Luton,Sheffield Utd,2024-02-10T15:00:00Z,True,Luton
+444,682,Joseph Johnson,40,DEF,Luton,Sheffield Utd,2024-02-10T15:00:00Z,True,Luton
+445,727,Andros Townsend,50,MID,Spurs,Luton,2024-03-30T15:00:00Z,False,Luton
+446,729,Jayden Luker,45,MID,Spurs,Luton,2024-03-30T15:00:00Z,False,Luton
+447,734,Zack Nelson,45,MID,Luton,Bournemouth,2024-04-06T14:00:00Z,True,Luton
+448,341,Manuel Akanji,49,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+449,342,Nathan Aké,50,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+450,343,Julián Álvarez,69,FWD,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+451,344,Bernardo Veiga de Carvalho e Silva,65,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+452,345,Oscar Bobb,44,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+453,346,João Cancelo,58,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+454,347,Scott Carson,38,GKP,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+455,348,Shea Charles,45,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+456,349,Kevin De Bruyne,107,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+457,350,Rúben Gato Alves Dias,55,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+458,352,Ederson Santana de Moraes,55,GKP,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+459,353,Phil Foden,79,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+460,354,Jack Grealish,72,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+461,355,Erling Haaland,141,FWD,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+462,356,Mateo Kovačić,47,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+463,357,Aymeric Laporte,49,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+464,358,Rico Lewis,43,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+465,359,Riyad Mahrez,75,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+466,361,Stefan Ortega Moreno,38,GKP,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+467,363,Máximo Perrone,44,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+468,365,Rodrigo Hernandez,56,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+469,366,Sergio Gómez,38,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+470,367,Zack Steffen,39,GKP,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+471,368,John Stones,53,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+472,369,Kyle Walker,55,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+473,566,Matheus Luiz Nunes,48,MID,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+474,616,Joško Gvardiol,48,DEF,Brentford,Man City,2024-02-05T20:00:00Z,False,Man City
+475,678,Jérémy Doku,65,MID,Man City,Chelsea,2024-02-17T17:30:00Z,True,Man City
+476,209,Mason Mount,68,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+477,370,Alex Telles,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+478,371,Amad Diallo,44,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+479,372,Antony Matheus dos Santos,68,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+480,373,Bruno Borges Fernandes,82,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+481,374,Brandon Williams,40,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+482,375,Eric Bailly,40,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+483,376,Carlos Henrique Casimiro,53,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+484,377,Diogo Dalot Teixeira,51,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+485,379,Christian Eriksen,58,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+486,380,Álvaro Fernández Carreras,40,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+487,381,Frederico Rodrigues de Paula Santos,50,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+488,382,Alejandro Garnacho,48,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+489,383,Hannibal Mejbri,43,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+490,384,Tom Heaton,40,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+491,386,Victor Lindelöf,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+492,387,Harry Maguire,42,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+493,388,Kobbie Mainoo,44,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+494,389,Tyrell Malacia,43,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+495,390,Anthony Martial,64,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+496,391,Lisandro Martínez,47,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+497,392,Scott McTominay,46,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+498,394,Facundo Pellistri Rebollo,42,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+499,395,Raphaël Varane,49,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+500,396,Marcus Rashford,84,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+501,397,Jadon Sancho,67,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+502,398,Luke Shaw,52,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+503,399,Shola Shoretire,44,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+504,400,Donny van de Beek,47,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+505,401,Aaron Wan-Bissaka,44,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+506,597,André Onana,48,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+507,617,Rasmus Højlund,68,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+508,632,Omari Forson,44,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,False,Man Utd
+509,669,Radek Vítek,40,GKP,Man Utd,West Ham,2024-02-04T14:00:00Z,True,Man Utd
+510,685,Daniel Gore,45,MID,Aston Villa,Man Utd,2024-02-11T16:30:00Z,False,Man Utd
+511,695,Altay Bayindir,40,GKP,Luton,Man Utd,2024-02-18T16:30:00Z,False,Man Utd
+512,703,Jonny Evans,40,DEF,Luton,Man Utd,2024-02-18T16:30:00Z,False,Man Utd
+513,709,Sofyan Amrabat,50,MID,Man Utd,Fulham,2024-02-24T15:00:00Z,True,Man Utd
+514,204,Lewis Hall,43,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+515,402,Miguel Almirón Rejala,62,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+516,403,Elliot Anderson,42,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+517,404,Harrison Ashby,40,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+518,405,Sven Botman,45,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+519,406,Bruno Guimarães Rodriguez Moura,58,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+520,407,Dan Burn,44,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+521,408,Karl Darlow,40,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+522,409,Martin Dubravka,42,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+523,410,Ryan Fraser,49,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+524,411,Mark Gillespie,39,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+525,412,Anthony Gordon,61,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+526,413,Isaac Hayden,44,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+527,414,Jeff Hendrick,44,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+528,415,Alexander Isak,76,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+529,416,Joelinton Cássio Apolinário de Lira,58,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+530,417,Emil Krafth,44,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+531,418,Garang Kuol,45,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+532,419,Jamaal Lascelles,41,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+533,420,Jamal Lewis,40,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+534,421,Sean Longstaff,48,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+535,422,Javier Manquillo Gaitán,40,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+536,423,Jacob Murphy,48,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+537,424,Nick Pope,53,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+538,425,Matt Ritchie,43,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+539,426,Allan Saint-Maximin,60,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+540,427,Fabian Schär,52,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+541,428,Matt Targett,42,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+542,429,Sandro Tonali,52,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+543,430,Kieran Trippier,67,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+544,431,Kell Watts,40,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+545,432,Joe Willock,53,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+546,433,Callum Wilson,78,FWD,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+547,580,Loris Karius,39,GKP,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+548,581,Paul Dummett,39,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+549,603,Harvey Barnes,62,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+550,633,Tino Livramento,43,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+551,634,Alex Murphy,39,DEF,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+552,635,Lewis Miley,45,MID,Aston Villa,Newcastle,2024-01-30T20:15:00Z,False,Newcastle
+553,738,Amadou Diallo,45,MID,Crystal Palace,Newcastle,2024-04-24T19:00:00Z,False,Newcastle
+554,739,Ben Parkinson,45,FWD,Crystal Palace,Newcastle,2024-04-24T19:00:00Z,False,Newcastle
+555,23,Nuno Varela Tavares,40,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+556,28,Matt Turner,39,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+557,205,Callum Hudson-Odoi,47,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+558,378,Anthony Elanga,51,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+559,434,Brandon Aguilera Zamora,45,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+560,435,Harry Arter,43,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+561,436,Serge Aurier,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+562,437,Taiwo Awoniyi,63,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+563,438,Giulian Biancone,39,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+564,439,Willy Boly,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+565,440,Josh Bowler,45,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+566,441,Steve Cook,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+567,442,Danilo dos Santos de Oliveira,53,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+568,443,Emmanuel Dennis,48,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+569,444,Mohamed Dräger,40,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+570,445,Felipe Augusto de Almeida Monteiro,44,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+571,446,Remo Freuler,49,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+572,447,Morgan Gibbs-White,57,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+573,448,Wayne Hennessey,40,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+574,449,Ethan Horvath,43,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+575,451,Cheikhou Kouyaté,48,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+576,452,Richie Laryea,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+577,453,Orel Mangala,50,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+578,454,Loïc Mbe Soh,40,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+579,455,Scott McKenna,44,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+580,456,Alex Mighten,44,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+581,457,Moussa Niakhaté,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+582,458,Lewis O'Brien,49,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+583,459,Braian Ojeda Rodríguez,45,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+584,460,Jonathan Panzo,40,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+585,461,Omar Richards,44,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+586,462,Gustavo Henrique Furtado Scarpa,45,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+587,463,Jonjo Shelvey,48,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+588,464,Sam Surridge,45,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+589,465,Harry Toffolo,44,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+590,466,Hwang Ui-jo,44,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+591,467,Neco Williams,43,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+592,468,Chris Wood,50,FWD,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+593,469,Joe Worrall,43,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+594,470,Ryan Yates,48,MID,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+595,604,Olu Aina,45,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+596,636,George Shelvey,39,GKP,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+597,637,Josh Powell,39,DEF,Nott'm Forest,Arsenal,2024-01-30T19:30:00Z,True,Nott'm Forest
+598,679,Gonzalo Montiel,44,DEF,Nott'm Forest,Newcastle,2024-02-10T17:30:00Z,True,Nott'm Forest
+599,696,Murillo Santiago Costa dos Santos,45,DEF,Nott'm Forest,West Ham,2024-02-17T15:00:00Z,True,Nott'm Forest
+600,710,Odysseas Vlachodimos,45,GKP,Aston Villa,Nott'm Forest,2024-02-24T15:00:00Z,False,Nott'm Forest
+601,711,Andrew Omobamidele,45,DEF,Aston Villa,Nott'm Forest,2024-02-24T15:00:00Z,False,Nott'm Forest
+602,712,Nicolás Domínguez,50,MID,Aston Villa,Nott'm Forest,2024-02-24T15:00:00Z,False,Nott'm Forest
+603,713,Ibrahim Sangaré,49,MID,Aston Villa,Nott'm Forest,2024-02-24T15:00:00Z,False,Nott'm Forest
+604,714,Divock Origi,50,FWD,Aston Villa,Nott'm Forest,2024-02-24T15:00:00Z,False,Nott'm Forest
+605,27,Auston Trusty,39,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+606,33,Cameron Archer,44,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+607,255,Mason Holgate,40,DEF,Fulham,Sheffield Utd,2024-01-30T19:45:00Z,False,Sheffield Utd
+608,360,James McAtee,44,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+609,471,Anel Ahmedhodžić,43,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+610,472,Jordan Amissah,39,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+611,473,George Baldock,38,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+612,474,Chris Basham,39,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+613,476,Jayden Bogle,45,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+614,477,Rhian Brewster,49,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+615,478,Ismaila Coulibaly,44,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+616,479,Adam Davies,40,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+617,480,John Egan,43,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+618,481,John Fleck,49,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+619,482,Wes Foderingham,45,GKP,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+620,483,Daniel Jebbison,48,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+621,484,Max Lowe,43,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+622,485,Oliver McBurnie,54,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+623,486,Iliman Ndiaye,55,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+624,487,Rhys Norrington-Davies,39,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+625,488,Oliver Norwood,48,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+626,489,Ben Osborn,48,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+627,490,William Osula,43,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+628,576,Jack Robinson,44,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+629,587,Anis Slimane,47,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+630,592,Yasser Larouci,43,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+631,593,Bénie Traoré,51,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+632,638,Vini de Souza Costa,50,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+633,653,Femi Seriki,39,DEF,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+634,654,Louie Marsh,45,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+635,655,Andre Brooks,44,MID,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+636,656,Antwoine Hackford,44,FWD,Crystal Palace,Sheffield Utd,2024-01-30T20:00:00Z,False,Sheffield Utd
+637,663,Gustavo Hamer,50,MID,Sheffield Utd,Aston Villa,2024-02-03T17:30:00Z,True,Sheffield Utd
+638,666,Tom Davies,50,MID,Sheffield Utd,Aston Villa,2024-02-03T17:30:00Z,True,Sheffield Utd
+639,693,Luke Thomas,40,DEF,Sheffield Utd,Brighton,2024-02-18T14:00:00Z,True,Sheffield Utd
+640,730,Ryan Oné,44,MID,Liverpool,Sheffield Utd,2024-04-04T18:30:00Z,False,Sheffield Utd
+641,731,Jili Buyabu,40,DEF,Liverpool,Sheffield Utd,2024-04-04T18:30:00Z,False,Sheffield Utd
+642,450,Brennan Johnson,58,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+643,491,Brandon Austin,39,GKP,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+644,492,Rodrigo Bentancur,54,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+645,493,Yves Bissouma,50,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+646,494,Bryan Gil Salvatierra,49,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+647,495,Ben Davies,43,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+648,496,Eric Dier,42,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+649,497,Emerson Leite de Souza Junior,43,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+650,498,Fraser Forster,38,GKP,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+651,499,Pierre-Emile Højbjerg,52,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+652,500,Harry Kane,125,FWD,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+653,501,Dejan Kulusevski,71,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+654,502,Hugo Lloris,47,GKP,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+655,503,Giovani Lo Celso,48,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+656,504,James Maddison,78,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+657,505,Tanguy Ndombélé Alvaro,44,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+658,506,Pedro Porro,59,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+659,507,Ivan Perišić,47,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+660,509,Richarlison de Andrade,70,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+661,510,Joe Rodon,40,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+662,511,Cristian Romero,49,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+663,512,Davinson Sánchez,44,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+664,513,Pape Matar Sarr,44,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+665,514,Ryan Sessegnon,44,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+666,515,Oliver Skipp,45,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+667,516,Son Heung-min,97,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+668,517,Djed Spence,40,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+669,518,Japhet Tanganga,40,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+670,519,Destiny Udogie,48,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+671,520,Guglielmo Vicario,53,GKP,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+672,521,Alfie Whiteman,39,GKP,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+673,583,Manor Solomon,51,MID,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+674,639,Micky van de Ven,44,DEF,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+675,640,Dane Scarlett,45,FWD,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+676,641,Alejo Véliz,54,FWD,Spurs,Brentford,2024-01-31T19:30:00Z,True,Spurs
+677,702,Ashley Phillips,40,DEF,Spurs,Wolves,2024-02-17T15:00:00Z,True,Spurs
+678,722,Jamie Donley,45,FWD,Fulham,Spurs,2024-03-16T17:30:00Z,False,Spurs
+679,364,Kalvin Phillips,47,MID,Man Utd,West Ham,2024-02-04T14:00:00Z,False,West Ham
+680,522,Nayef Aguerd,45,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+681,523,Michail Antonio,57,FWD,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+682,524,Alphonse Areola,42,GKP,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+683,525,Saïd Benrahma,56,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+684,526,Jarrod Bowen,81,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+685,527,Maxwel Cornet,52,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+686,528,Vladimír Coufal,47,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+687,529,Conor Coventry,43,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+688,530,Aaron Cresswell,42,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+689,531,Flynn Downes,50,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+690,532,Emerson Palmieri dos Santos,46,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+691,533,Lukasz Fabianski,42,GKP,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+692,534,Pablo Fornals Malla,46,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+693,535,Danny Ings,56,FWD,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+694,536,Ben Johnson,44,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+695,537,Thilo Kehrer,42,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+696,538,Divin Mubama,42,FWD,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+697,539,Lucas Tolentino Coelho de Lima,60,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+698,541,Gianluca Scamacca,60,FWD,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+699,542,Tomáš Souček,49,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+700,543,Nikola Vlašić,45,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+701,544,Kurt Zouma,45,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+702,577,Angelo Ogbonna,43,DEF,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+703,642,Edson Álvarez Velázquez,50,MID,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+704,647,Joseph Anang,40,GKP,West Ham,Bournemouth,2024-02-01T19:30:00Z,True,West Ham
+705,664,James Ward-Prowse,60,MID,Man Utd,West Ham,2024-02-04T14:00:00Z,False,West Ham
+706,676,Konstantinos Mavropanos,45,DEF,West Ham,Arsenal,2024-02-11T14:00:00Z,True,West Ham
+707,689,Mohammed Kudus,68,MID,Nott'm Forest,West Ham,2024-02-17T15:00:00Z,False,West Ham
+708,351,Tommy Doyle,44,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+709,545,Rayan Aït-Nouri,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+710,546,Daniel Bentley,39,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+711,547,Bendegúz Bolla,40,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+712,548,Hugo Bueno López,44,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+713,549,Francisco Jorge Tomás Oliveira,45,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+714,550,Luke Cundle,45,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+715,551,Craig Dawson,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+716,552,Fábio Silva,52,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+717,554,Gonçalo Manuel Ganchinho Guedes,54,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+718,555,Joe Hodge,44,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+719,556,Ki-Jana Hoever,40,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+720,557,Hwang Hee-chan,56,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+721,559,João Victor Gomes da Silva,49,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+722,560,Jonathan Castro Otto,43,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+723,561,Bruno Cavaco Jordão,43,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+724,562,Sasa Kalajdzic,49,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+725,563,Max Kilman,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+726,564,Tom King,39,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+727,565,Mario Lemina,49,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+728,567,Pedro Lomba Neto,56,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+729,568,Daniel Castelo Podence,53,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+730,569,José Malheiro de Sá,50,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+731,570,Pablo Sarabia,47,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+732,571,Matija Šarkić,40,GKP,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+733,572,Nélson Cabral Semedo,45,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+734,573,Toti António Gomes,44,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+735,574,Boubacar Traoré,43,MID,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+736,590,Matheus Santos Carneiro Da Cunha,58,FWD,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+737,598,Matt Doherty,43,DEF,Wolves,Man Utd,2024-02-01T20:15:00Z,True,Wolves
+738,697,Santiago Bueno,45,DEF,Spurs,Wolves,2024-02-17T15:00:00Z,False,Wolves
+739,698,Enso González,50,MID,Spurs,Wolves,2024-02-17T15:00:00Z,False,Wolves
+740,704,Nathan Fraser,45,FWD,Spurs,Wolves,2024-02-17T15:00:00Z,False,Wolves
+741,715,Jean-Ricner Bellegarde,49,MID,Wolves,Sheffield Utd,2024-02-25T13:30:00Z,True,Wolves
